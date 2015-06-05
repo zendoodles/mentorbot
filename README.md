@@ -20,7 +20,7 @@ for mentorbot.
 Once you have these, you can launch the bot. It should just pick up the .sqlite
 store and remember everything. Generally I use
 
-```nohup perl testbot.pl &```
+```nohup perl taco_cart.pl &```
 
 You may also want to watch the output the first few times tho. When I was first
 experimenting, I would run it in screen without nohup and watch for errors as it
