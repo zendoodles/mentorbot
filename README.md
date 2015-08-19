@@ -1,6 +1,4 @@
-This is the bot used for mentors in #drupal-mentoring on irc. If you are a
-mentor or otherwise looking to improve the bot somehow for mentors, you are in
-the right place.
+This is the branch for taco_cart which resides in several channels on freenode including #drupal-watercooler. If you're looking to copy or improve taco_cart, you're in the right place.
 
 I am no expert with perl, so I'm not even sure this is a good way to share a
 perl project. Do feel free to improve it and send me a pull request.
